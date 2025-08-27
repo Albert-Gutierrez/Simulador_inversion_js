@@ -22,7 +22,7 @@
 h1{
     font-size: 34px;
     font-weight: 700;
-    color: #1c9882;
+    color: #392aa6;
     text-align: center;
     padding-bottom: 50px;
     border-bottom: 2px solid #7a93ab;
@@ -40,7 +40,7 @@ h1{
 }
 
 h2{
-    color: #202d37;
+    color: #392aa6;
     font-weight: 700;
     font-size: 28px;
     margin-bottom: 14px;
@@ -48,7 +48,7 @@ h2{
 
 .left p{
     margin-bottom: 30px;
-    color: #2f3c46;
+    color: #392aa6;
 }
 
 form{
@@ -79,7 +79,7 @@ form{
 .group-data label{ 
     display: block;
     margin-bottom: 10px;
-    color: #202d37;
+     color: black
 }
 .group-data input,
 .group-data select{
@@ -92,7 +92,7 @@ form button{
     display: block;
     width: 97%;
     padding: 14px 80px;
-    background: #1c9882;
+    background:  #392aa6;
     color: #fff;
     border: 1px solid #1c9882;
     transition: .4s;
@@ -100,9 +100,9 @@ form button{
 }
 
 form button:hover{
-    background: #f5f8fa;
+    background:#bc7d24;
     border: 1px solid #1c9882;
-    color: #1c9882;
+    color: #ffffff;
 }
 
 input, select{
