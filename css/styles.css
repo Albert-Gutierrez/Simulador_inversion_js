@@ -150,13 +150,13 @@ input::placeholder {
 }
 
 .right .post-simulation h3 span{
-    color: #1c9882;
+    color: #bc7d24;
     font-weight: 600;
     font-size: 24px;
 }
 
 .right .total{
-    background: #1c988259;
+    background: #bd893f;
     padding: 30px;
 }
 
@@ -179,7 +179,7 @@ input::placeholder {
 
 .notificacion{
     padding: 20px;
-    border: 1px solid #1c9882;
+    border: 1px solid #bc7d24;
     margin-top: 40px;
 }
 
