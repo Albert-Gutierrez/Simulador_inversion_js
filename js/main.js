@@ -9,13 +9,14 @@ function simulador(){
 
 //variables que capturan los valores de los campos
     let cNombre = document.getElementById('nombre').value;
-    let cTelefono = document.getElementBy('telefono').value;
+    // let cTelefono = document.getElementBy('telefono').value;//
     let cEmail = document.getElementById('email').value;
     let cMonto = document.getElementById('monto').value;
-    let cTiempo = document.getElemetById('tiempo').value;
+    let cTiempo = document.getElementById('tiempo').value;
+
 
 //constantes que capturan las etiquetas span en las que se muenstran los valores, por eso la s de show sTiempo, sInteres...
-    const sTiempo = document.getElemenbtById('sTiempo');
+    const sTiempo = document.getElementById('sTiempo');
     const sInteres = document.getElementById('sInteres');
     const sTotal = document.getElementById('sTotal');
     const sGanancia = document.getElementById('sGanancia');
