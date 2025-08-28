@@ -190,3 +190,14 @@ input::placeholder {
 .notificacion h5 span{
     font-weight: 700;
 }
+
+footer{
+    text-align: center;
+    background: #74e1cd;
+    padding: 20px;
+    text-decoration: none;
+}
+footer h2{
+    font-size: larger;
+}
+
